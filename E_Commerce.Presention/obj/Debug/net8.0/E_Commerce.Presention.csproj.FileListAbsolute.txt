@@ -15,3 +15,4 @@ D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\refint\E_Commerce.Presention.dll
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.pdb
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\ref\E_Commerce.Presention.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.sourcelink.json

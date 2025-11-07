@@ -13,3 +13,4 @@ D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\n
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\refint\E_Commerce.Serves Abstraction.dll
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.pdb
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\ref\E_Commerce.Serves Abstraction.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.sourcelink.json

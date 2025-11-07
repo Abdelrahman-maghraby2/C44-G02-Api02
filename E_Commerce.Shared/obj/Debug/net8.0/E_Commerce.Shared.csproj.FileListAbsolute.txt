@@ -9,3 +9,4 @@ D:\API\Project\E Commerce,Web Solution\E_Commerce.Shared\obj\Debug\net8.0\E_Comm
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Shared\obj\Debug\net8.0\refint\E_Commerce.Shared.dll
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Shared\obj\Debug\net8.0\E_Commerce.Shared.pdb
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Shared\obj\Debug\net8.0\ref\E_Commerce.Shared.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Shared\obj\Debug\net8.0\E_Commerce.Shared.sourcelink.json

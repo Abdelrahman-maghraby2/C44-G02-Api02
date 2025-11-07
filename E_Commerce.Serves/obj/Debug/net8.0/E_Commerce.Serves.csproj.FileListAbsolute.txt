@@ -17,3 +17,4 @@ D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves\obj\Debug\net8.0\E_Comm
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves\obj\Debug\net8.0\refint\E_Commerce.Serves.dll
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves\obj\Debug\net8.0\E_Commerce.Serves.pdb
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves\obj\Debug\net8.0\ref\E_Commerce.Serves.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves\obj\Debug\net8.0\E_Commerce.Serves.sourcelink.json

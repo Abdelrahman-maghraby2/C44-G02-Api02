@@ -1,7 +1,7 @@
 [
   {
-    "ContainingType": "E_Commerce_Web.Controllers.ProductController",
-    "Method": "Get",
+    "ContainingType": "E_Commerce.Presention.Contrallers.ProductController",
+    "Method": "GetProducts",
     "RelativePath": "api/Product",
     "HttpMethod": "GET",
     "IsController": true,
@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[E_Commerce_Web.Model.Product, E Commerce.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[E_Commerce.Shared.DTOs.ProductDTOs.ProductDTO, E_Commerce.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,86 +20,8 @@
     ]
   },
   {
-    "ContainingType": "E_Commerce_Web.Controllers.ProductController",
-    "Method": "AddProduct",
-    "RelativePath": "api/Product",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "product",
-        "Type": "E_Commerce_Web.Model.Product",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "E_Commerce_Web.Model.Product",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "E_Commerce_Web.Controllers.ProductController",
-    "Method": "Update",
-    "RelativePath": "api/Product",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "product",
-        "Type": "E_Commerce_Web.Model.Product",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "E_Commerce_Web.Model.Product",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "E_Commerce_Web.Controllers.ProductController",
-    "Method": "Delete",
-    "RelativePath": "api/Product",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "product",
-        "Type": "E_Commerce_Web.Model.Product",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "E_Commerce_Web.Model.Product",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "E_Commerce_Web.Controllers.ProductController",
-    "Method": "Get",
+    "ContainingType": "E_Commerce.Presention.Contrallers.ProductController",
+    "Method": "GetProduct",
     "RelativePath": "api/Product/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -113,7 +35,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "E_Commerce_Web.Model.Product",
+        "Type": "E_Commerce.Shared.DTOs.ProductDTOs.ProductDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -124,16 +46,16 @@
     ]
   },
   {
-    "ContainingType": "E_Commerce_Web.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "E_Commerce.Presention.Contrallers.ProductController",
+    "Method": "GetAllBrands",
+    "RelativePath": "api/Product/brands",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[E_Commerce_Web.WeatherForecast, E Commerce.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[E_Commerce.Shared.DTOs.ProductDTOs.BrandDTO, E_Commerce.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -141,7 +63,26 @@
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
+  },
+  {
+    "ContainingType": "E_Commerce.Presention.Contrallers.ProductController",
+    "Method": "GetAllTypes",
+    "RelativePath": "api/Product/types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[E_Commerce.Shared.DTOs.ProductDTOs.TypeDTO, E_Commerce.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

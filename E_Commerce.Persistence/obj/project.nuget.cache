@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PHINpXAk/kI=",
+  "dgSpecHash": "rk0Jmkbn16o=",
   "success": true,
   "projectFilePath": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Persistence\\E_Commerce.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\AL-Ahram\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
@@ -17,6 +18,7 @@
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.21\\microsoft.entityframeworkcore.sqlserver.8.0.21.nupkg.sha512",
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "C:\\Users\\AL-Ahram\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\AL-Ahram\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

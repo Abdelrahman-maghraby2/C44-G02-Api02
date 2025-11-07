@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\API\\Project\\E Commerce,Web Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFD5EA3B-613D-48B7-A92E-99EB95F6E934}|E Commerce,Web\\E Commerce.Web.csproj|d:\\api\\project\\e commerce,web solution\\e commerce,web\\extensions\\webapplicationregisterantion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD5EA3B-613D-48B7-A92E-99EB95F6E934}|E Commerce,Web\\E Commerce.Web.csproj|solutionrelative:e commerce,web\\extensions\\webapplicationregisterantion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CFD5EA3B-613D-48B7-A92E-99EB95F6E934}|E Commerce,Web\\E Commerce.Web.csproj|d:\\api\\project\\e commerce,web solution\\e commerce,web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFD5EA3B-613D-48B7-A92E-99EB95F6E934}|E Commerce,Web\\E Commerce.Web.csproj|solutionrelative:e commerce,web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD96813D-EB48-4CBF-AA32-1C247A44FC34}|E_Commerce.Serves\\E_Commerce.Serves.csproj|d:\\api\\project\\e commerce,web solution\\e_commerce.serves\\servesassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD96813D-EB48-4CBF-AA32-1C247A44FC34}|E_Commerce.Serves\\E_Commerce.Serves.csproj|solutionrelative:e_commerce.serves\\servesassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD96813D-EB48-4CBF-AA32-1C247A44FC34}|E_Commerce.Serves\\E_Commerce.Serves.csproj|d:\\api\\project\\e commerce,web solution\\e_commerce.serves\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD96813D-EB48-4CBF-AA32-1C247A44FC34}|E_Commerce.Serves\\E_Commerce.Serves.csproj|solutionrelative:e_commerce.serves\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD96813D-EB48-4CBF-AA32-1C247A44FC34}|E_Commerce.Serves\\E_Commerce.Serves.csproj|d:\\api\\project\\e commerce,web solution\\e_commerce.serves\\mappingprofiles\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD96813D-EB48-4CBF-AA32-1C247A44FC34}|E_Commerce.Serves\\E_Commerce.Serves.csproj|solutionrelative:e_commerce.serves\\mappingprofiles\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD5EA3B-613D-48B7-A92E-99EB95F6E934}|E Commerce,Web\\E Commerce.Web.csproj|d:\\api\\project\\e commerce,web solution\\e commerce,web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD5EA3B-613D-48B7-A92E-99EB95F6E934}|E Commerce,Web\\E Commerce.Web.csproj|solutionrelative:e commerce,web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E3C54-A41D-4EF7-8FB1-B51E39B6EE53}|E_Commerce.Presention\\E_Commerce.Presention.csproj|d:\\api\\project\\e commerce,web solution\\e_commerce.presention\\contrallers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E3C54-A41D-4EF7-8FB1-B51E39B6EE53}|E_Commerce.Presention\\E_Commerce.Presention.csproj|solutionrelative:e_commerce.presention\\contrallers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebApplicationRegisterantion.cs",
-              "DocumentMoniker": "D:\\API\\Project\\E Commerce,Web Solution\\E Commerce,Web\\Extensions\\WebApplicationRegisterantion.cs",
-              "RelativeDocumentMoniker": "E Commerce,Web\\Extensions\\WebApplicationRegisterantion.cs",
-              "ToolTip": "D:\\API\\Project\\E Commerce,Web Solution\\E Commerce,Web\\Extensions\\WebApplicationRegisterantion.cs",
-              "RelativeToolTip": "E Commerce,Web\\Extensions\\WebApplicationRegisterantion.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ServesAssemblyReference.cs",
+              "DocumentMoniker": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Serves\\ServesAssemblyReference.cs",
+              "RelativeDocumentMoniker": "E_Commerce.Serves\\ServesAssemblyReference.cs",
+              "ToolTip": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Serves\\ServesAssemblyReference.cs",
+              "RelativeToolTip": "E_Commerce.Serves\\ServesAssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T17:40:12.462Z",
+              "WhenOpened": "2025-11-07T08:01:32.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\API\\Project\\E Commerce,Web Solution\\E Commerce,Web\\Program.cs",
               "RelativeDocumentMoniker": "E Commerce,Web\\Program.cs",
               "ToolTip": "D:\\API\\Project\\E Commerce,Web Solution\\E Commerce,Web\\Program.cs",
               "RelativeToolTip": "E Commerce,Web\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T17:17:41.62Z",
+              "WhenOpened": "2025-11-07T07:48:08.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\API\\Project\\E Commerce,Web Solution\\E Commerce,Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "E Commerce,Web\\appsettings.Development.json",
+              "ToolTip": "D:\\API\\Project\\E Commerce,Web Solution\\E Commerce,Web\\appsettings.Development.json",
+              "RelativeToolTip": "E Commerce,Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T07:11:56.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Serves\\MappingProfiles\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "E_Commerce.Serves\\MappingProfiles\\ProductPictureUrlResolver.cs",
+              "ToolTip": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Serves\\MappingProfiles\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "E_Commerce.Serves\\MappingProfiles\\ProductPictureUrlResolver.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T07:00:02.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Serves\\MappingProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerce.Serves\\MappingProfiles\\ProductProfile.cs",
+              "ToolTip": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Serves\\MappingProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "E_Commerce.Serves\\MappingProfiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:52:50.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Presention\\Contrallers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E_Commerce.Presention\\Contrallers\\ProductController.cs",
+              "ToolTip": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Presention\\Contrallers\\ProductController.cs",
+              "RelativeToolTip": "E_Commerce.Presention\\Contrallers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:54:38.224Z",
               "EditorCaption": ""
             }
           ]

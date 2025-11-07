@@ -2,14 +2,19 @@
 using E_Commerce.Domain.Contract;
 using E_Commerce.Persistence.Data.DataSeeding;
 using E_Commerce.Persistence.Data.DbContexts;
+using E_Commerce.Persistence.Repositories;
+using E_Commerce.Serves;
+using E_Commerce.Serves.MappingProfiles;
+using E_Commerce.Serves_Abstraction;
 using E_Commerce_Web.Extensions;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace E_Commerce_Web
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -27,14 +32,21 @@ namespace E_Commerce_Web
             });
 
             builder.Services.AddScoped<IDataIntializer, DataIntializer>();
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            builder.Services.AddScoped<IProductServes, ProductServes>();
+            //builder.Services.AddAutoMapper(x => x.AddProfile<ProductProfile>());
+            //builder.Services.AddAutoMapper(x=>x.LicenseKey="",typeof(ProductProfile).Assembly); 
+            builder.Services.AddAutoMapper(typeof(ServesAssemblyReference).Assembly);
+            builder.Services.AddTransient<ProductPictureUrlResolver>();
+
 
             #endregion
 
             var app = builder.Build();
 
             #region DataSeeding - Apply Migurations
-            app.MigrateDatabase()
-               .SeedDatabase();
+             await  app.MigrateDatabaseAsync();
+             await  app.SeedDatabaseAsync();
        
 
             #endregion
@@ -49,11 +61,11 @@ namespace E_Commerce_Web
             }
 
             app.UseHttpsRedirection();
-
+            app.UseStaticFiles();
             app.MapControllers();
             #endregion
 
-            app.Run();
+            await app.RunAsync();
         }
     }
 }

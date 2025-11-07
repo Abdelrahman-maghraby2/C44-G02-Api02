@@ -10,4 +10,8 @@
     <ProjectReference Include="..\E_Commerce.Serves Abstraction\E_Commerce.Serves Abstraction.csproj" />
   </ItemGroup>
 
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App"/>
+	</ItemGroup>
+	
 </Project>

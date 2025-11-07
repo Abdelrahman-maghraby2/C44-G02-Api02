@@ -19,3 +19,4 @@ D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\refint\E_Commerce.Persistence.dll
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.pdb
 D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\ref\E_Commerce.Persistence.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.sourcelink.json
